@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "The PaCoDu Vault"
+message: "If you use or reference this work, please cite it as follows."
+type: report
+
+authors:
+  - family-names: "Pancu"
+    given-names: "C."
+
+title: "The PaCoDu Vault: An AI-Assisted Conceptual Framework for Cost-Escalation Authentication and Adaptive Defensive Architecture"
+
+version: "6"
+
+date-released: 2026-07-18
+
+license: "CC-BY-NC-4.0"
